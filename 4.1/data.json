@@ -1,0 +1,14 @@
+[
+    {
+        "term": "CSS",
+        "definition": "Cascadian Style Sheets"
+    },
+    {
+        "term": "JS",
+        "definition": "JavaScript"
+    },
+    {
+        "term": "JSON",
+        "definition": "JavaScript Object Notation"
+    }
+]
